@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      h1 {
+        font-family: sans-serif;
+        text-align: center;
+        color: rgb(146, 142, 142);
+      }
+
+      p {
+        font-family: sans-serif;
+        text-align: center;
+        color: rgb(146, 142, 142); /* Here testing the comments on CSS code */
+      }
+    </style>
+    <title>My Daily Challenge</title>
+    <!-- Just checking how the comment option works. It's my 3rd day programming-->
+  </head>
+  <body>
+    <h1>Wojtek's Challenge for Sunday, November 26th</h1>
+    <p>
+        I will achieve that goal by diving into
+        <a href="https://www.google.com">more learning resources</a>.
+    </p>
+    <p>
+      Learn about the basics of web development - specifically dive into HTML &
+      CSS.
+    </p>
+  </body>
+</html>
